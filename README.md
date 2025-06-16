@@ -4,7 +4,7 @@ This project analyzes NYPD shooting incident data using R. The dataset includes 
 
 ## Live Report Link
 
-- [View NYPD Shooting Report](https://your-username.github.io/your-repo-name/NYPD_Shooting_Analysis.html)
+- [View NYPD Shooting Report](https://raycirko.github.io/nypd-shooting-analysis/NYPD%20Shooting.html)
 
 ## Overview
 
