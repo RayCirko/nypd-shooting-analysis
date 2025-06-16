@@ -2,6 +2,10 @@
 
 This project analyzes NYPD shooting incident data using R. The dataset includes detailed records of shootings in New York City and was used to explore patterns, trends, and possible correlations.
 
+## Live Report Link
+
+- [View NYPD Shooting Report](https://your-username.github.io/your-repo-name/NYPD_Shooting_Analysis.html)
+
 ## Overview
 
 - **Data Source**: NYC Open Data – NYPD Shooting Incident Data
